@@ -2,6 +2,10 @@
   "name": "rsync-gui",
   "version": "1.0.0",
   "description": "A simple GUI for rsync with progress visualization",
+  "author": {
+    "name": "Yuxi Hong",
+    "email": "yuxi.hong.research@gmail.com"
+  },
   "main": "dist-electron/main.js",
   "scripts": {
     "dev": "vite",
